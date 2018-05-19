@@ -208,7 +208,7 @@ plugins:
       _important:
         read_until: 1521111600
       _octopi:
-        read_until: 1521023400
+        read_until: 1525941000
       _plugins:
         read_until: 1523232000
       _releases:
